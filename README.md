@@ -7,9 +7,7 @@
 ### npm init -y
 ### npm install express
 ### Create app.js
-### Edit package.json
-## include script
-### "start" :"node ./app.js"
+### Edit package.json include script >> "start" :"node ./app.js"
 ### npm start 
 ### git init 
 ### git branch
